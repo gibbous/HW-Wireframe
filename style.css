@@ -61,6 +61,7 @@ div {
   color: #777;
   margin-bottom: 4px;
   line-height: 2;
+  font-weight: bold;
   position: relative;
   top: 30px;
 }
@@ -76,8 +77,10 @@ div {
 
 .aside {
   float: right;
-  width: 270px;
+  width: 328px;
+  height: 226px;
   padding: 25px;
+  margin-right: -25px;
   background: #ebebeb;
 }
 
